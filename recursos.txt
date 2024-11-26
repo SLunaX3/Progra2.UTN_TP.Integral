@@ -1,0 +1,3 @@
+Libro | 001 | El Lenguaje de Programación Java | 2024-11-25 | James Gosling | 300 | Pearson | Educación
+Articulo | 002 | Introducción a Java | 2024-11-25 | Ana Gómez | Java, Programación | Revista Muy Interesante | Programación
+TrabajoInvestigacion | 003 | Avances en IA | 2024-11-25 | Luis Díaz | Carlos Sánchez, Elena Ruiz | Inteligencia Artificial | IA
